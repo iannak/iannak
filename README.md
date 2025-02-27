@@ -2,10 +2,9 @@
 
 ### I'm a Software Engineer with expertise in
 
-• .NET | Java | JavaScript | TypeScript | Next | React Native | Postgres | Mysql | Graphql | Node | Express | React | Vue |
-Redux | jǪuery | NoSǪL | Git | TypeORM | React Testing Library | Nest | PHP| Laravel | Yii2
-• AWS/Azure DevOps (Pipeline) | Cloud Computing | CI/CD | XUnit | Jest | Unit Testing | Lambda | OOP | Docker | Kubernetes |
-Firebase
+ 	
+• .NET | Java | JavaScript | TypeScript | Next | React Native | Postgres | Mysql | Graphql | Node | Express | React | Vue | Redux | jǪuery | NoSǪL | Git | TypeORM | React Testing Library | Git | Github | Nest | PHP| Laravel | Yii2 | Axios | React Hook Form | Yup/Zod | Styled Components | React Query | Zustand | TailwindCSS | Bootstrap | Material UI
+• AWS/Azure DevOps (Pipeline) | Cloud Computing | CI/CD | XUnit | Jest | Unit Testing | Lambda | OOP | Docker | Kubernetes | Firebase
 • Microservices | Distributed Systems | Frontend | Backend | Full-Stack | Mobile | Figma
 
 "A language doesn't make your code good, good programmers make your code good."
