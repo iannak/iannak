@@ -3,7 +3,7 @@
 ### I'm a Software Engineer with expertise in
 
  	
-<p>• .NET | Java | JavaScript | TypeScript | Next | React Native | Postgres | Mysql | Graphql | Node | Express | React | Vue | Redux | jǪuery | NoSǪL | Git | TypeORM | React Testing Library | Git | Github | Nest | PHP| Laravel | Yii2 | Axios | React Hook Form | Yup/Zod | Styled Components | React Query | Zustand | TailwindCSS | Bootstrap | Material UI</p>
+<p>• .NET | Java | JavaScript | TypeScript | Next | React Native | Postgres | Mysql | Graphql | Node | Express | React | Vue | Redux | jǪuery | NoSǪL | Git | TypeORM | React Testing Library | Git | Github | Nest | PHP| Laravel | Yii2 | Axios | React Hook Form | Yup/Zod | Styled Components | React Query | Zustand | TailwindCSS | Bootstrap | Material UI | Python | Django | Django Rest </p>
 <p>• AWS/Azure DevOps (Pipeline) | Cloud Computing | CI/CD | XUnit | Jest | Unit Testing | Lambda | OOP | Docker | Kubernetes | Firebase</p>
 <p>• Microservices | Distributed Systems | Frontend | Backend | Full-Stack | Mobile | Figma</p>
 
