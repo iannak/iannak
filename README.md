@@ -4,19 +4,25 @@
 
  	
 <p>Linguagens e Frameworks:
+ <br />
 ● Frontend: React.js, Next.js, Vue.js, TailwindCSS, Redux, Zustand, React Query
+  <br />
 ● Backend: Node.js, Express.js, NestJS, Python, Django, Django Rest, Laravel, PHP,
 .NET
+  <br />
 ● APIs & Arquitetura: GraphQL, REST APIs, WebSockets, Microservices, Clean
 Architecture, SOLID, Atomic Design
-Banco de Dados & DevOps:
-● Bancos de Dados: PostgreSQL, MySQL, MongoDB, NoSQL, Prisma, TypeORM
-● Infraestrutura & Cloud: Docker, Kubernetes, AWS Lambda, Firebase, Azure DevOps,
-CI/CD
-Testes & Qualidade:
+  <br />
+Banco de Dados & DevOps: <br />
+● Bancos de Dados: PostgreSQL, MySQL, MongoDB, NoSQL, Prisma, TypeORM <br />
+● Infraestrutura & Cloud: Docker, Kubernetes, AWS Lambda, Firebase, Azure DevOps, <br />
+CI/CD <br />
+Testes & Qualidade: <br />
 
-● Testes Automatizados: Jest, Cypress, Pytest, XUnit
-● Code Review & Performance Optimization</p>
+● Testes Automatizados: Jest, Cypress, Pytest, XUnit <br />
+● Code Review & Performance Optimization
+ <br />
+</p>
 
 "A language doesn't make your code good, good programmers make your code good."
 
