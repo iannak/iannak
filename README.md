@@ -15,8 +15,7 @@ Architecture, SOLID, Atomic Design
   <br />
 Banco de Dados & DevOps: <br />
 ● Bancos de Dados: PostgreSQL, MySQL, MongoDB, NoSQL, Prisma, TypeORM <br />
-● Infraestrutura & Cloud: Docker, Kubernetes, AWS Lambda, Firebase, Azure DevOps, <br />
-CI/CD <br />
+● Infraestrutura & Cloud: Docker, Kubernetes, AWS Lambda, Firebase, Azure DevOps, CI/CD <br />
 Testes & Qualidade: <br />
 
 ● Testes Automatizados: Jest, Cypress, Pytest, XUnit <br />
